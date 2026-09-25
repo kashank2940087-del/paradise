@@ -1,0 +1,6 @@
+{
+  "name": "Paradise Institute of Computer Education",
+  "description": "Karachi's premier IT, Computer Technology, Graphic Design, and Medical Skills Academy. Street #63, Urdu Bazar, Shershah, Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
